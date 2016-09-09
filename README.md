@@ -1,5 +1,5 @@
 ---
-summary: 'Quick project summary shown here.'
+summary: 'Start compiling and creating the content for your portfolio website.'
 time: '1 hour'
 deliverables: '1 text document'
 ---
