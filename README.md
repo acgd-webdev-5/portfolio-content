@@ -45,7 +45,6 @@ Employers want to see:
 
 ## Good case-study–based portfolios
 
-- [Yitong Zhang, Product designer](http://www.zhayitong.com/case1.html)
 - [TheeDesign](https://www.theedesign.com/results/iupac)
 - [Kyle Decker](http://kyledecker.me/work/catnap)
 - [EUX](http://www.ethicalux.com/)
